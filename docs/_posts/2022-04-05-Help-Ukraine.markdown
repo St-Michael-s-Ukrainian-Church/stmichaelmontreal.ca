@@ -28,7 +28,7 @@ height: 100%;" src="https://www.youtube.com/embed/YK1-bxgVvSw?&autoplay=1" frame
 * [Amazon shopping list](https://www.amazon.ca/hz/wishlist/ls/34QNHNJ5U3J18?ref_=wl_share)
     * We added to Amazon shopping list items that in need in Ukraine.
       You can purchase one or a few on your choice. Send it directly to us at the time of purchase or drop off by the address [`2388 Rue D'Iberville, Montréal, QC H2K 3C6`](https://goo.gl/maps/bzQcvRP5gcxKyXX1A).
-      Father Yaroslav the Priest is always there.
+      Father Yaroslav, the Priest is always there.
 
 * Make an E-transfer donation to: `support.ua@atlanticukrainian.ca`
 
@@ -110,4 +110,4 @@ height: 100%;" src="https://www.youtube.com/embed/YK1-bxgVvSw?&autoplay=1" frame
 * [https://www.amazon.ca/hz/wishlist/ls/34QNHNJ5U3J18](https://www.amazon.ca/hz/wishlist/ls/34QNHNJ5U3J18?ref_=wl_share)
 * We added to Amazon shopping list items that in need in Ukraine.
   You can purchase one or a few on your choice. Send it directly to us at the time of purchase or drop off by the address [`2388 Rue D'Iberville, Montréal, QC H2K 3C6`](https://goo.gl/maps/bzQcvRP5gcxKyXX1A).
-  Father Yaroslav the Priest is always there.
+  Father Yaroslav, the Priest is always there.
