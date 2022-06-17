@@ -68,7 +68,7 @@ height: 100%;" src="https://www.youtube.com/embed/YK1-bxgVvSw?&autoplay=1" frame
 * Power banks (preferably solar)
 * Tactic military gloves
 * Ballistic eyewear (yellow, orange or transparent)
-* Wide belts extra long or military belts
+* Wide belts extra long
 * Thermos for hot meals or beverages
 * Fleece men/women jackets (green, grey, black with zipper)
 
