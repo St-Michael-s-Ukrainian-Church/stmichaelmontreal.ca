@@ -10,9 +10,6 @@ layout: home
 [2388 Rue D'Iberville, Montréal, QC H2K 3C6](https://goo.gl/maps/bzQcvRP5gcxKyXX1A)
 #### Facebook Page: [Help Ukraine St Michael Ukrainian Church Montreal](https://www.facebook.com/Help-Ukraine-St-Michael-Ukrainian-Church-Montreal-108145738525434)
 
-![Bikers Food Ride For Ukraine](/assets/img/Food-Ride_1.png)
-![Bikers Food Ride For Ukraine](/assets/img/Food-Ride_2.png)
-
 <div style="position: relative;
   overflow: hidden;
   width: 100%;
