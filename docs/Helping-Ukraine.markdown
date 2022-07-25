@@ -57,7 +57,6 @@ height: 100%;" src="https://www.youtube.com/embed/YK1-bxgVvSw?&autoplay=1" frame
 * Medical trauma scissors
 * Portable defibrillators
 
-
 ### Survival products
 * Water filters for camping (or water treatment tabs)
 * Sleeping bags (can be used, but in good condition)
@@ -81,9 +80,7 @@ height: 100%;" src="https://www.youtube.com/embed/YK1-bxgVvSw?&autoplay=1" frame
 * Fruit pure (no glass gars)
 * New clothes (0-3 y.o.)
 
-
-
-### Hygienic products
+### Hygiene products
 * Pads, liners, tampons
 * Toothbrushes, toothpaste
 * Antiperspirant (not an aerosol)
@@ -91,8 +88,6 @@ height: 100%;" src="https://www.youtube.com/embed/YK1-bxgVvSw?&autoplay=1" frame
 * Soap bars
 * Socks for men, women,and kids (new)
 * Underwear for men, women, and kids (new)
-
-
 
 ### Dry food (does not require cooking)
 * Fruit and/ or nut mix in individual packaging
