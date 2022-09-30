@@ -10,8 +10,28 @@ layout: home
 [2388 Rue D'Iberville, Montréal, QC H2K 3C6](https://goo.gl/maps/bzQcvRP5gcxKyXX1A)
 #### Facebook Page: [Help Ukraine St Michael Ukrainian Church Montreal](https://www.facebook.com/Help-Ukraine-St-Michael-Ukrainian-Church-Montreal-108145738525434)
 
-![Walk For Peace](assets/img/WalkForPeace_1.jpg)
-![Walk For Peace](assets/img/WalkForPeace_2.jpg)
+## КАЛЕНДАР
+
+Понеділок
+* 19:00  Свята Літургія за Україну, її воїнів і весь народ.
+
+Вівторок
+* 19:00  Свята Літургія за Україну, її воїнів і весь народ.
+
+Середа
+* 19:00  Свята Літургія за Україну, її воїнів і весь народ.
+
+Четвер
+* 18:00  Свята Літургія за Україну, її воїнів і весь народ.
+
+П’ятниця
+* 19:00  Свята Літургія за Україну, її воїнів і весь народ.
+
+Субота
+* 10:00  Свята Літургія
+
+Неділя
+* 10:00  Свята Літургія за парафіян
 
 <div style="position: relative;
   overflow: hidden;
