@@ -38,7 +38,7 @@ layout: home
 
 
 ## Пожертви на відбудову церкви можна зробити за цим посиланням :
-https://www.gofundme.com/f/church-building-needs-repairs
+<https://www.gofundme.com/f/church-building-needs-repairs>
 ### Пожертви на відбудову церкви:
 Евген Осідач
 Віталій Кржепіцький і Алла Бабенко
