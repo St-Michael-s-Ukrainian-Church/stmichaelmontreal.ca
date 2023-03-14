@@ -8,12 +8,13 @@ layout: home
 ---
 ![Church](assets/img/church_1.jpg)
 
-## Публікація.
+## <b>Преса</b>
+
 ## <a href="https://www.lapresse.ca/actualites/grand-montreal/2023-03-12/centre-sud/une-eglise-ukrainienne-au-bord-du-gouffre.php">La Presse: Une église ukrainienne au bord du gouffre.</a>
 
 ---
-
-### Графік Богослужінь
+<p></p>
+## <b>Графік Богослужінь</b>
 
 `13 березня 2023`, Понеділок
 
@@ -45,11 +46,14 @@ layout: home
 
 * 10:00 Свята Літургія за парафіян
 
-## Пожертви на відбудову церкви можна зробити нижче за посиланням :
-
-# <a href="https://www.gofundme.com/f/church-building-needs-repairs">Зробити пожертву</a>
 ---
-### Дякуємо за пожертви на відбудову церкви :
+<p></p>
+## <b>Пожертви на відбудову дзвіниць церкви можна зробити нижче за посиланням :</b>
+
+# <b><a href="https://www.gofundme.com/f/church-building-needs-repairs">ЗРОБИТИ ПОЖЕРТВУ</a></b>
+---
+<p></p>
+## <b>Дякуємо за пожертви :</b>
 
 <ul>
 Евген Осідач <br>
