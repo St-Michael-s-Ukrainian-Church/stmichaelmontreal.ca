@@ -9,6 +9,7 @@ layout: home
 ![Church](assets/img/church_1.jpg)
 
 ## <b>Преса</b>
+
 ## <a href="https://www.lapresse.ca/actualites/grand-montreal/2023-03-12/centre-sud/une-eglise-ukrainienne-au-bord-du-gouffre.php">La Presse: Une église ukrainienne au bord du gouffre.</a>
 
 ---
