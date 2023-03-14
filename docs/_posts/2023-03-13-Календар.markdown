@@ -38,13 +38,14 @@ categories: jekyll update
 `19 березня`, Неділя
 
 * 10:00 Свята Літургія за парафіян
----
+
+
 ## Публікація La Presse:
 ### Une église ukrainienne au bord du gouffre.
 <https://www.lapresse.ca/actualites/grand-montreal/2023-03-12/centre-sud/une-eglise-ukrainienne-au-bord-du-gouffre.php>
 
 ## Пожертви на відбудову церкви можна зробити за наступним посиланням : 
-https://www.gofundme.com/f/church-building-needs-repairs
+<https://www.gofundme.com/f/church-building-needs-repairs>
 
 ---
 ### Дякуємо за пожертви на відбудову церкви :
