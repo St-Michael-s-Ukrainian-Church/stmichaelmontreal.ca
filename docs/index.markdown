@@ -10,12 +10,38 @@ layout: home
 
 ## <b>Преса</b>
 
-* <a href="https://www.cbc.ca/news/canada/montreal/ukrainian-church-repairs-parish-1.6776865">CBC NEWS: Ukrainians in Montreal hope to preserve historic church in need of major repairs</a>
-* <a href="https://www.lapresse.ca/actualites/grand-montreal/2023-03-12/centre-sud/une-eglise-ukrainienne-au-bord-du-gouffre.php">La Presse: Une église ukrainienne au bord du gouffre.</a>
+* <a href="https://www.cbc.ca/news/canada/montreal/ukrainian-church-repairs-parish-1.6776865">CBC NEWS: Ukrainians in
+  Montreal hope to preserve historic church in need of major repairs</a>
+* <a href="https://www.lapresse.ca/actualites/grand-montreal/2023-03-12/centre-sud/une-eglise-ukrainienne-au-bord-du-gouffre.php">
+  La Presse: Une église ukrainienne au bord du gouffre.</a>
 
-
----
+<hr>
 <p></p>
+
+## <b>Пожертви</b>
+#####  <b>Пожертви на підтримку нашої церкви можна також робити наступними способами:</b>
+* Поштою: 2388 Rue D'Iberville, Montréal, QC H2K 3C6
+* Interac/e-transfer, email: stmi1911@gmail.com (Question: Cherch; Password: Michael).
+<p>
+a також просимо вас долучитися до пожертв на <b><a href="https://www.gofundme.com/f/church-building-needs-repairs">ВІДБУДОВУ ДЗВІНИЦЬ</a></b> нашої церкви.
+</p>
+
+<hr>
+<p></p>
+
+### <b>Дякуємо за пожертви :</b>
+<ul>
+Евген Осідач <br>
+Віталій Кржепіцький і Алла Бабенко <br>
+Марія Гребінник <br>
+Володимир Галіян <br>
+Пані Вікторія і Марта
+</ul>
+Нехай Господь благословить вас щедрими дарами!
+
+<hr>
+<p></p>
+
 ## <b>Графік Богослужінь</b>
 
 `13 березня 2023`, Понеділок
@@ -47,24 +73,6 @@ layout: home
 `19 березня 2023`, Неділя
 
 * 10:00 Свята Літургія за парафіян
-
----
-<p></p>
-## <b>Пожертви на відбудову дзвіниць церкви можна зробити нижче за посиланням :</b>
-
-## <b><a href="https://www.gofundme.com/f/church-building-needs-repairs">ЗРОБИТИ ПОЖЕРТВУ</a></b>
----
-<p></p>
-## <b>Дякуємо за пожертви :</b>
-
-<ul>
-Евген Осідач <br>
-Віталій Кржепіцький і Алла Бабенко <br>
-Марія Гребінник <br>
-Володимир Галіян <br>
-Пані Вікторія і Марта
-</ul>
-Дякуємо! Нехай Господь благословить вас щедрими дарами.
 
 <div style="position: relative;
   overflow: hidden;
