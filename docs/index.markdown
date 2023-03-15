@@ -23,7 +23,7 @@ layout: home
 * Поштою: 2388 Rue D'Iberville, Montréal, QC H2K 3C6
 * Interac/e-transfer, email: stmi1911@gmail.com (Question: Cherch; Password: Michael).
 <p>
-a також просимо вас долучитися до пожертв на <b><a href="https://www.gofundme.com/f/church-building-needs-repairs">ВІДБУДОВУ ДЗВІНИЦЬ</a></b> нашої церкви.
+a також просимо вас <b><a href="https://www.gofundme.com/f/church-building-needs-repairs">ЗРОБИТИ ПОЖЕРТВУ НА ВІДБУДОВУ ДЗВІНИЦЬ</a></b> нашої церкви.
 </p>
 
 <hr>
