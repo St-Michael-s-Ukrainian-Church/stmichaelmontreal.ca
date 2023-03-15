@@ -10,8 +10,8 @@ layout: home
 
 ## <b>Преса</b>
 
-### <a href="https://www.cbc.ca/news/canada/montreal/ukrainian-church-repairs-parish-1.6776865">CBC NEWS: Ukrainians in Montreal hope to preserve historic church in need of major repairs</a>
-### <a href="https://www.lapresse.ca/actualites/grand-montreal/2023-03-12/centre-sud/une-eglise-ukrainienne-au-bord-du-gouffre.php">La Presse: Une église ukrainienne au bord du gouffre.</a>
+* <a href="https://www.cbc.ca/news/canada/montreal/ukrainian-church-repairs-parish-1.6776865">CBC NEWS: Ukrainians in Montreal hope to preserve historic church in need of major repairs</a>
+* <a href="https://www.lapresse.ca/actualites/grand-montreal/2023-03-12/centre-sud/une-eglise-ukrainienne-au-bord-du-gouffre.php">La Presse: Une église ukrainienne au bord du gouffre.</a>
 
 
 ---
