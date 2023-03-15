@@ -50,7 +50,7 @@ layout: home
 <p></p>
 ## <b>Пожертви на відбудову дзвіниць церкви можна зробити нижче за посиланням :</b>
 
-# <b><a href="https://www.gofundme.com/f/church-building-needs-repairs">ЗРОБИТИ ПОЖЕРТВУ</a></b>
+## <b><a href="https://www.gofundme.com/f/church-building-needs-repairs">ЗРОБИТИ ПОЖЕРТВУ</a></b>
 ---
 <p></p>
 ## <b>Дякуємо за пожертви :</b>
