@@ -26,13 +26,13 @@ layout: home
 
 * <b><a href="https://www.gofundme.com/f/church-building-needs-repairs">На відбудову дзвіниць</a></b> нашої церкви.
 * Поштою: 2388 Rue D'Iberville, Montréal, QC H2K 3C6
-* Interac/e-transfer, email: stmi1911@gmail.com (Question: Cherch; Password: Michael).
+* Interac/e-transfer, email: stmi1911@gmail.com (Question: Church; Password: Michael).
+
 <p></p>
 
 ##### <b>Дякуємо за пожертви! Нехай Господь благословить вас щедрими дарами! </b>
 
 <hr>
-<p></p>
 
 ## <b>Розпорядок Богослужінь</b>
 
