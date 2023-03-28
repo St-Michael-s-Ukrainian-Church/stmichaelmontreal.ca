@@ -8,6 +8,7 @@ layout: home
 ---
 ![Church](assets/img/church_1.jpg)
 
+
 ## <b>News</b>
 
 * <b><a href="https://globalnews.ca/news/9546247/montreal-ukrainian-church-repairs/?fbclid=IwAR2aQq4UUnmsuRxSgh1RTgqdFhHqu3waPm5Ve0uF2_ID33JVZylNnEYPhtE">
@@ -18,7 +19,7 @@ layout: home
   La Presse: Une église ukrainienne au bord du gouffre.</a></b>
 
 <hr>
-<p></p>
+
 
 ## <b>Пожертви</b>
 
@@ -28,7 +29,6 @@ layout: home
 * Поштою: 2388 Rue D'Iberville, Montréal, QC H2K 3C6
 * Interac/e-transfer, email: stmi1911@gmail.com (Question: Church; Password: Michael).
 
-<p></p>
 
 ##### <b>Дякуємо за пожертви! Нехай Господь благословить вас щедрими дарами! </b>
 
@@ -64,6 +64,7 @@ layout: home
 `2 квітня, Неділя` 
 
 * 10:00 Свята Літургія за парафіян. Благословення лози.
+
 
 <div style="position: relative;
   overflow: hidden;
