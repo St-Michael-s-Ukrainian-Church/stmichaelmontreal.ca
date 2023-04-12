@@ -18,8 +18,12 @@ layout: home
 * <b><a href="https://www.lapresse.ca/actualites/grand-montreal/2023-03-12/centre-sud/une-eglise-ukrainienne-au-bord-du-gouffre.php">
   La Presse: Une église ukrainienne au bord du gouffre.</a></b>
 
-<hr>
+<hr/>
 
+## <b>Долучаймося до допомоги Україні</b>
+* <b><a href="/jekyll/update/2022/04/13/Help-Ukraine.html"> Help Ukraine </a></b>
+           
+<hr/>
 
 ## <b>Пожертви</b>
 
