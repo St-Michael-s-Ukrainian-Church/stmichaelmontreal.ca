@@ -6,6 +6,5 @@ The website for the St. Michael the Archangel Ukrainian Catholic Church of Montr
 * install Jekyll
 https://jekyllrb.com/docs/installation
 
-* Run server 
-bundle install
-bundle exec jekyll serve (exemple : on /local/stmichaelmontreal.ca/docs)
+* Run server bundle install
+$ bundle exec jekyll serve (exemple : on /local/stmichaelmontreal.ca/docs)
