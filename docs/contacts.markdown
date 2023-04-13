@@ -4,23 +4,23 @@ title: Contacts
 permalink: /contacts/
 ---
 
-### Address:
+#### <b>Address:</b>
 
 ##### [2388 Rue D'Iberville, Montréal, QC H2K 3C6](https://goo.gl/maps/bzQcvRP5gcxKyXX1A)
 
-### Phone:
+#### <b>Phone:</b>
 
 ##### [+1(514)521-2234](tel:+1(514)521-2234)
 
-### Help Ukraine, email:
+#### <b>Help Ukraine, email:</b>
 
 ##### [helpukraine@stmichaelmontreal.ca](mailto:helpukraine@stmichaelmontreal.ca)
 
-### St. Michael's Ukrainian Church, email:
+#### <b>St. Michael's Ukrainian Church, email:</b>
 
 ##### [ukrainianchurch.stmichael@gmail.com](mailto:ukrainianchurch.stmichael@gmail.com)
 
-### Facebook Pages:
+#### <b>Facebook Pages:</b>
 
 ##### [Help Ukraine St Michael Ukrainian Church Montreal](https://www.facebook.com/Help-Ukraine-St-Michael-Ukrainian-Church-Montreal-108145738525434)
 
