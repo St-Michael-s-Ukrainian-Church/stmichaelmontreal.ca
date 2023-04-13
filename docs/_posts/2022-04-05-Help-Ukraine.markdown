@@ -1,68 +1,109 @@
 ---
 layout: post
-title:  "Розпорядок Богослужінь 03 - 16 квітня"
-date:   2023-04-10 12:55:44 -0400
+title:  "Help Ukraine"
+date:   2022-04-13 11:55:44 -0400
 categories: jekyll update
 ---
 
-## Квітень 2023
-### Страсний тиждень і Христове Воскресіння
+<div style="position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;">
+    <iframe style="position: absolute;
+top: 0;
+left: 0;
+bottom: 0;
+right: 0;
+width: 100%;
+height: 100%;" src="https://www.youtube.com/embed/YK1-bxgVvSw?&autoplay=1" frameborder="0"></iframe>
+</div>
 
-`3 квітня, Великий Понеділок`
+<br>
 
-* 18:00  Вечірня.
+### <b> Ways to help Ukraine</b>
+----
+* Bring donations to the [Church](https://goo.gl/maps/bzQcvRP5gcxKyXX1A) at [`2388 Rue D'Iberville, Montréal, QC H2K 3C6`](https://goo.gl/maps/bzQcvRP5gcxKyXX1A)
+  * Use list of required items below.
+  * Call us for any questions [+1(514)521-2234](tel:+1(514)521-2234)
 
-`4 квітня, Великий Вівторок`
+* [Amazon shopping list](https://www.amazon.ca/hz/wishlist/ls/34QNHNJ5U3J18?ref_=wl_share)
+  * We added to Amazon shopping list items that in need in Ukraine.
+    You can purchase one or a few on your choice. Send it directly to us at the time of purchase or drop off by the address [`2388 Rue D'Iberville, Montréal, QC H2K 3C6`](https://goo.gl/maps/bzQcvRP5gcxKyXX1A).
+    Father Yaroslav, the Priest is always there.
 
-* 18:00  Свята Літургія за Україну, її воїнів і весь народ.
+* Make an E-transfer donation to: `support.ua@atlanticukrainian.ca`
 
-`5 квітня, Велика Середа`
+----
+### <b> Things we collect and send over to Ukraine</b>
 
-* 18:00 Акафіст Страстей Христових.
+#### <b> Medication and medical supplies (not open, new, not expired)</b>
+* Emergency laceration closures
+* Medical Sutures with needles (1/0-6/0)
+* Skin stapler with wires
+* Haemostatic dressings / Bandage cover
+* Chest seal with vent
+* Flue medication (Néocetran, etc)
+* Wound seal in powder
+* Antifungal cream for the feet
+* Lactated Ringers Solution 1000 ml in bag
+* Normal saline / 0.9% sodium chloride 1000ml in bag
+* Bandages, gauze and wound dressing
+* First Aid kits
+* Disinfectant swabs
+* Syringes
+* First aid tourniquets
+* Painkillers/Anti-inflammatories  (Tylenol, Advil, Aspirine, Ibuprofen)
+* Anti-allergy (Benadryl)
+* Anti-diarrhea (Imodium)
+* Cut and burn creams (Polysporin)
+* Medical trauma scissors
+* Portable defibrillators
 
-`6 квітня, Великий Четвер`
+#### <b>Survival products</b>
+* Water filters for camping (or water treatment tabs)
+* Sleeping bags (can be used, but in good condition)
+* Flashlights (preferably solar)
+* Waterproof headlamps (preferably solar)
+* Raincoats for adults
+* Elbow and knees protection
+* Power banks (preferably solar)
+* Tactic military gloves
+* Ballistic eyewear (yellow, orange or transparent)
+* Wide belts extra long
+* Thermos for hot meals or beverages
+* Fleece men/women jackets (green, grey, black with zipper)
 
-* 17:00  Утреня Христових Страстей (12 Євангелій).
+#### <b>Baby products (new only)</b>
+* New plastic bottles
+* Zincofax, panadol baby, nasal drops, ear drops, polysporin
+* Diapers and wet wipes
+* Baby formula (in powder and liquid)
+* Cereals and cookies
+* Fruit pure (no glass gars)
+* New clothes (0-3 y.o.)
 
-`7 квітня, Велика П’ятниця`
+#### <b>Hygiene products</b>
+* Pads, liners, tampons
+* Toothbrushes, toothpaste
+* Antiperspirant (not an aerosol)
+* Baby wet wipes
+* Soap bars
+* Socks for men, women,and kids (new)
+* Underwear for men, women, and kids (new)
 
-* 18:00  Вечірня з винесенням Плащаниці.
+#### <b>Dry food (does not require cooking)</b>
+* Fruit and/ or nut mix in individual packaging
+* Energy or oatmeal bars
+* Coffee/tea/sugar in individual packaging
+* Cookies in individual packaging
+* Instant oatmeal in individual packaging
+* Cereals and other snacks in individual packaging
+* Ramen instant noodles
+* Individual cans of fish (tuna, salmon, Sardines)
+* Instant mashed potatoes
 
-`8 квітня, Велика Субота`
-
-* 10:00  Вечірня з Літургією св. Василія Великого.
-
-* 16:00 – 19:00   Благословення пасок у церкві.
-
-`9 квітня, НЕДІЛЯ ПАСХИ. ВЕЛИКДЕНЬ`
-
-* 09:00  Надгробне, Воскресна Утреня.
-* 10:00  Урочиста Пасхальна Літургія, благословення  Артоса, мирування.
-* Після Літургії - благословення пасок.
-
-`10 квітня, Світлий Понеділок`
-* 19:00 Свята Літургія.
-
-`11 квітня, Світлий Вівторок`
-* 19:00 Свята Літургія.
-
-`12 квітня, Світла Середа`
-* 18:00 Свята Літургія за Україну й весь наш народ.
-
-`13 квітня, Світлий Четвер`
-* 18:00 Свята Літургія за упокій душі бл.п. Василя – 40 день.
-
-`14 квітня, Світла П'ятниця`
-* 18:00 Свята Літургія за Україну й весь наш народ.
-
-`15 квітня, Світла Субота`
-* 10:00 Свята Літургія.
-  17:00 – 19:00   Благословення пасок у церкві церкві (за Юліянським календарем).
-
-`16 квітня, Томина Неділя i Юліянський ВЕЛИКДЕНЬ.`
-* 10:00 Свята Літургія.
-Після св. Літургії – благословення пасок, мирування.
-
-ЩИРОСЕРДЕЧНА ПОДЯКА всім, хто пожертвував на квіти до Гробу Господнього. 
-
-
+#### <b>Here is [Amazon shopping list](https://www.amazon.ca/hz/wishlist/ls/34QNHNJ5U3J18?ref_=wl_share) with some of the menteoned items </b>
+* <b> [Click for Wish List](https://www.amazon.ca/hz/wishlist/ls/34QNHNJ5U3J18?ref_=wl_share)</b>
+* We added to Amazon shopping list items that in need in Ukraine.
+  You can purchase one or a few on your choice. Send it directly to us at the time of purchase or drop off by the address [`2388 Rue D'Iberville, Montréal, QC H2K 3C6`](https://goo.gl/maps/bzQcvRP5gcxKyXX1A).
+  Father Yaroslav, the Priest is always there.
