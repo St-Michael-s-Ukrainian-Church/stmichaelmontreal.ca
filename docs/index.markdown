@@ -8,7 +8,7 @@ layout: home
 ---
 ![Church](assets/img/church_1.jpg)
 
-## <b>Публікації у пресі</b>
+## <b> Про нас у пресі</b>
 
 * <b><a href="https://globalnews.ca/news/9546247/montreal-ukrainian-church-repairs/?fbclid=IwAR2aQq4UUnmsuRxSgh1RTgqdFhHqu3waPm5Ve0uF2_ID33JVZylNnEYPhtE">
   Global News: Montreal Ukrainian church, ‘pivotal’ hub for new arrivals, in need of repairs.</a></b>
