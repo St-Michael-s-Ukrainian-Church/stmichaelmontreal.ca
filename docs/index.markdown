@@ -8,8 +8,7 @@ layout: home
 ---
 ![Church](assets/img/church_1.jpg)
 
-
-## <b>Новини</b>
+## <b>Публікації у пресі</b>
 
 * <b><a href="https://globalnews.ca/news/9546247/montreal-ukrainian-church-repairs/?fbclid=IwAR2aQq4UUnmsuRxSgh1RTgqdFhHqu3waPm5Ve0uF2_ID33JVZylNnEYPhtE">
   Global News: Montreal Ukrainian church, ‘pivotal’ hub for new arrivals, in need of repairs.</a></b>
@@ -21,9 +20,21 @@ layout: home
 <hr/>
 
 ## <b>Долучаймося до допомоги Україні</b>
+
 * <b><a href="/jekyll/update/2022/04/13/Help-Ukraine.html"> Help Ukraine </a></b>
-           
-<hr/>
+
+<div style="position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%;">
+  <iframe style="position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;" src="https://www.youtube.com/embed/YK1-bxgVvSw?&autoplay=1" frameborder="0"></iframe>
+</div> 
 
 ## <b>Пожертви</b>
 
@@ -33,50 +44,11 @@ layout: home
 * Поштою: 2388 Rue D'Iberville, Montréal, QC H2K 3C6
 * Interac/e-transfer, email: stmi1911@gmail.com (Question: Church; Password: Michael).
 
-
 ##### <b>Дякуємо за пожертви! Нехай Господь благословить вас щедрими дарами! </b>
 
 <hr>
 
-## <b>Розпорядок Богослужінь</b>
+## <b>Розпорядок Богослужінь на 15-23 квітня 2023</b>
 
-### Страсний тиждень і Христове Воскресіння
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstmichaels.ukr.montreal%2Fposts%2Fpfbid0pZEeujZKomiGPfzBzDKswk6q95QrH54p8Q4DexYZGGMrvCcxACfKwGGtsHxjJ6uql&show_text=true&width=500" width="500" height="428" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
-`10 квітня, Світлий Понеділок`
-* 19:00 Свята Літургія
-
-`11 квітня, Світлий Вівторок`
-* 19:00 Свята Літургія.
-
-`12 квітня, Світла Середа`
-* 18:00 Свята Літургія за Україну й весь наш народ.
-
-`13 квітня, Світлий Четвер`
-* 18:00 Свята Літургія за упокій душі бл.п. Василя – 40 день.
-
-`14 квітня, Світла П'ятниця`
-* 18:00 Свята Літургія за Україну й весь наш народ.
-
-`15 квітня, Світла Субота`
-* 10:00 Свята Літургія.
-  17:00 – 19:00   Благословення пасок у церкві церкві (за Юліянським календарем).
-
-`16 квітня, Томина Неділя i Юліянський ВЕЛИКДЕНЬ.`
-* 10:00 Свята Літургія.
-  Після св. Літургії – благословення пасок, мирування.
-
-ЩИРОСЕРДЕЧНА ПОДЯКА всім, хто пожертвував на квіти до Гробу Господнього.
-
-
-<div style="position: relative;
-  overflow: hidden;
-  width: 100%;
-  padding-top: 56.25%;">
-    <iframe style="position: absolute;
-top: 0;
-left: 0;
-bottom: 0;
-right: 0;
-width: 100%;
-height: 100%;" src="https://www.youtube.com/embed/YK1-bxgVvSw?&autoplay=1" frameborder="0"></iframe>
-</div>
