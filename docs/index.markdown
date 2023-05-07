@@ -48,8 +48,8 @@ layout: home
 
 <hr>
 
-## <b>Розпорядок Богослужінь на 1 - 7 травня 2023</b>
+## <b>Розпорядок Богослужінь на 8 - 14 травня 2023</b>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstmichaels.ukr.montreal%2Fposts%2Fpfbid02QxJ4gmrE44FHwRwKQJD7QEL5VcfZUUkCwv39zYTFtKwHzKTdFNThD865gNekMESel&show_text=true&width=500" width="500" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstmichaels.ukr.montreal%2Fposts%2Fpfbid02bvtFyExS5MuQ9Gq748GwJ5Ggc3QbktVpDSxG4s5QP2CHHKMXzTNM3cyZxa45YmQjl&show_text=true&width=500" width="500" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
