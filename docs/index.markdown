@@ -50,5 +50,5 @@ layout: home
 
 ## <b>Розпорядок Богослужінь на 19 - 25 червня 2023</b>
 
-![Church](assets/img/19-25-juin-2023.jpg)
+![Church](assets/img/19-25-juin-2023.png)
 
