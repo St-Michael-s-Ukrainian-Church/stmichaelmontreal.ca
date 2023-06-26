@@ -48,7 +48,7 @@ layout: home
 
 <hr>
 
-## <b>Розпорядок Богослужінь на 19 - 25 червня 2023</b>
+## <b>Розпорядок Богослужінь на 26 червня - 02 липня 2023</b>
 
-![Church](assets/img/19-25-juin-2023.png)
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstmichaels.ukr.montreal%2Fposts%2Fpfbid0Ebtbh8YwSKVUutqKymm14Vxd9TRgEvCKA2y1u9Z1UK9YouBGiChiD6K7Sa6MQBjgl&show_text=true&width=500" width="500" height="428" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
