@@ -48,7 +48,7 @@ layout: home
 
 <hr>
 
-## <b>Розпорядок Богослужінь на 26 червня - 02 липня 2023</b>
+## <b>Розпорядок Богослужінь на 03 липня - 09 липня 2023</b>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstmichaels.ukr.montreal%2Fposts%2Fpfbid0Ebtbh8YwSKVUutqKymm14Vxd9TRgEvCKA2y1u9Z1UK9YouBGiChiD6K7Sa6MQBjgl&show_text=true&width=500" width="500" height="428" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstmichaels.ukr.montreal%2Fposts%2Fpfbid0C1qdCYfQaHm3m7HSx5vSkqQU1E98veVoawq8qs7tyynFZ7x7qBsiEcL297dh1GXgl&show_text=true&width=500" width="500" height="434" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
