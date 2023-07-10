@@ -48,7 +48,7 @@ layout: home
 
 <hr>
 
-## <b>Розпорядок Богослужінь на 03 липня - 09 липня 2023</b>
+## <b>Розпорядок Богослужінь на 10 липня - 16 липня 2023</b>
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fstmichaels.ukr.montreal%2Fposts%2Fpfbid0C1qdCYfQaHm3m7HSx5vSkqQU1E98veVoawq8qs7tyynFZ7x7qBsiEcL297dh1GXgl&show_text=true&width=500" width="500" height="434" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+![](assets/img/10-16-juillet-2023.jpg)
 
