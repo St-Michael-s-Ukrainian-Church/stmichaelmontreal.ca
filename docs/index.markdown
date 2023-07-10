@@ -50,5 +50,5 @@ layout: home
 
 ## <b>Розпорядок Богослужінь на 10 липня - 16 липня 2023</b>
 
-![](assets/img/10-16-juillet-2023.jpg)
+![](assets/img/10-16-juillet-2023.png)
 
