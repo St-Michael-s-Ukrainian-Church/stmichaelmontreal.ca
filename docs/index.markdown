@@ -19,6 +19,22 @@ layout: home
 
 <hr/>
 
+## <b>Пожертви</b>
+
+##### <b>Запрошуємо підтримати нашу церкву наступними способами:</b>
+
+* <b><a href="https://www.gofundme.com/f/church-building-needs-repairs"> На відбудову дзвіниць</a></b> нашої церкви.
+* Поштою: 2388 Rue D'Iberville, Montréal, QC H2K 3C6
+* Interac/e-transfer, email: stmi1911@gmail.com (Question: Church; Password: Michael).
+
+##### <b>Дякуємо за пожертви! Нехай Господь благословить вас щедрими дарами! </b>
+
+<hr>
+
+## <b><a href="https://stmichaelsucc-mtl.blogspot.com/">Переглянути розпорядок Богослужінь</a></b>
+
+
+
 ## <b>Долучаймося до допомоги Україні</b>
 
 * <b><a href="/jekyll/update/2022/04/13/Help-Ukraine.html"> Help Ukraine </a></b>
@@ -36,17 +52,6 @@ layout: home
   height: 100%;" src="https://www.youtube.com/embed/YK1-bxgVvSw?&autoplay=1" frameborder="0"></iframe>
 </div> 
 
-## <b>Пожертви</b>
-
-##### <b>Запрошуємо підтримати нашу церкву наступними способами:</b>
-
-* <b><a href="https://www.gofundme.com/f/church-building-needs-repairs"> На відбудову дзвіниць</a></b> нашої церкви.
-* Поштою: 2388 Rue D'Iberville, Montréal, QC H2K 3C6
-* Interac/e-transfer, email: stmi1911@gmail.com (Question: Church; Password: Michael).
-
-##### <b>Дякуємо за пожертви! Нехай Господь благословить вас щедрими дарами! </b>
-
 <hr>
 
-## <b><a href="https://stmichaelsucc-mtl.blogspot.com/">Розпорядок Богослужінь</a></b>
 
