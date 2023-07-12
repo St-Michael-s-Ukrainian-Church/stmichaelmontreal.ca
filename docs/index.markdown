@@ -48,7 +48,5 @@ layout: home
 
 <hr>
 
-## <b>Розпорядок Богослужінь на 10 липня - 16 липня 2023</b>
-
-![](assets/img/10-16-juillet-2023.png)
+## <b><a href="https://stmichaelsucc-mtl.blogspot.com/">Розпорядок Богослужінь</a></b>
 
