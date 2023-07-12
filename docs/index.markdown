@@ -33,7 +33,7 @@ layout: home
 
 ## <b><a href="https://stmichaelsucc-mtl.blogspot.com/">Переглянути розпорядок Богослужінь</a></b>
 
-
+<hr>
 
 ## <b>Долучаймося до допомоги Україні</b>
 
