@@ -24,4 +24,3 @@ permalink: /contacts/
 
 ##### [Help Ukraine St Michael Ukrainian Church Montreal](https://www.facebook.com/Help-Ukraine-St-Michael-Ukrainian-Church-Montreal-108145738525434)
 
-##### [Tserkva Sviyatoho Mykhayila Montreal](https://www.facebook.com/stmichaels.ukr.montreal?mibextid=ZbWKwL)
