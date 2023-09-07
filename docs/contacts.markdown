@@ -22,5 +22,5 @@ permalink: /contacts/
 
 #### <b>Facebook Pages:</b>
 
-##### [Help Ukraine St Michael Ukrainian Church Montreal](https://www.facebook.com/Help-Ukraine-St-Michael-Ukrainian-Church-Montreal-108145738525434)
+##### [St Michael Ukrainian Church](https://www.facebook.com/o.pivtorak)
 
