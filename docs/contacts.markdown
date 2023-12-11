@@ -18,7 +18,7 @@ permalink: /contacts/
 
 #### <b>St. Michael's Ukrainian Church, email:</b>
 
-##### [ukrainianchurch.stmichael@gmail.com](mailto:ukrainianchurch.stmichael@gmail.com)
+##### [stmi1911@gmail.com](mailto:stmi1911@gmail.com)
 
 #### <b>Facebook Pages:</b>
 
