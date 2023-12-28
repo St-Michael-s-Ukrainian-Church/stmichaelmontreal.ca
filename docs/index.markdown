@@ -10,7 +10,8 @@ layout: home
 
 ## <b> Про нас у пресі</b>
 
-* <b><a href="https://globalnews.ca/news/9546247/montreal-ukrainian-church-repairs/?fbclid=IwAR2aQq4UUnmsuRxSgh1RTgqdFhHqu3waPm5Ve0uF2_ID33JVZylNnEYPhtE">
+* <b><a 
+<meta http-equiv="refresh" content="0;url= https://st-michel.s1.yapla.com/fr/">       href="https://globalnews.ca/news/9546247/montreal-ukrainian-church-repairs/?fbclid=IwAR2aQq4UUnmsuRxSgh1RTgqdFhHqu3waPm5Ve0uF2_ID33JVZylNnEYPhtE">
   Global News: Montreal Ukrainian church, ‘pivotal’ hub for new arrivals, in need of repairs.</a></b>
 * <b><a href="https://www.cbc.ca/news/canada/montreal/ukrainian-church-repairs-parish-1.6776865">CBC NEWS: Ukrainians in
   Montreal hope to preserve historic church in need of major repairs.</a></b>
